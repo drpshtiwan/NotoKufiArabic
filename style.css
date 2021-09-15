@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Noto Kufi Arabic";
+    src: url("NotoKufiArabic-Regular.eot"); /* IE9 Compat Modes */
+    src: url("NotoKufiArabic-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+        url("NotoKufiArabic-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+        url("NotoKufiArabic-Regular.woff") format("woff"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+    }
